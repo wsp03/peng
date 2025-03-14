@@ -19,7 +19,4 @@ config:
           theme: alt
           text: Github →
           link: https://github.com/pengzhanbo/vuepress-theme-plume
-
-
-123
 ---

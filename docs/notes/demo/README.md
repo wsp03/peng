@@ -6,3 +6,4 @@ permalink: /demo/
 
 - [bar](./bar.md)
 - [foo](./foo.md)
+- [Git命令备忘录.md](./Git命令备忘录.md)

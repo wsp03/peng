@@ -7,7 +7,7 @@ config:
     full: true
     background: tint-plate
     hero:
-      name: 有信念
+      name: 有信诺
       tagline: 路就在脚下
       text: 记录美好生活
       actions:
